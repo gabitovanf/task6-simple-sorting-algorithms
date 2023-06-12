@@ -1,0 +1,26 @@
+
+    ОТЧЁТ О ТЕСТИРОВАНИИ Sort.BubbleSort
+    Директория тестовых данных: 
+    /Users/nataliagabitova/Storage/Training/Algorithms/github/task6-simple-sorting-algorithms/sorting-tests/0.random
+
+    Тип массива: random
+
+
+    True : 1 | 4.8160552978515625e-05 | 0 | 0
+
+    ----
+
+
+    True : 10 | 5.2928924560546875e-05 | 45 | 48
+
+    ----
+
+
+    True : 100 | 0.0024421215057373047 | 4950 | 6471
+
+    ----
+
+
+    True : 1000 | 0.20213603973388672 | 499500 | 742467
+
+    ----
